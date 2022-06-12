@@ -1,0 +1,21 @@
+
+    body{
+        margin: 0px;
+        padding: 0px;
+    }
+    .container{
+        border: 1px black solid;
+        height:700px;
+    }
+    .head{
+        border: 1px red solid;
+        height: 100px;
+    }
+    .nav{
+        border: 1px blue solid;
+        height:60px;
+    }
+    .content{
+        text-align: center;
+    }
+    
